@@ -12,6 +12,11 @@ You'll also need a couple of jumpers, USB cables etc.
 
 Please find the BLE_Client application under  https://github.com/ashok-rao/BLE_Client_My_OPT3001 repo.
 
-You can verify the output of this application on a serial terminal for your respective OS.
+You can verify the output of this application either:
+  - on a serial terminal for your respective OS 
+    OR
+  - on a BLE enabled Android device with the Nordic nRF connect app
 
-The application will print a few messages and start reading the light sensor and show the readings with a 1sec delay.
+The application will print a few messages on the serial terminal and start reading the light sensor and show the readings with a 1sec delay.
+
+If you are using the Nordic android app, you can scan for the "OPT3001" device and "connect" to it. Upon successful discovery of services, you can enable "notifications" and start getting the light sensor's data in hex.
