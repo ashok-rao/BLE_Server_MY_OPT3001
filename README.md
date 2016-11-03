@@ -1,4 +1,6 @@
-# BLE_MY_OPT3001
+TL;DR : There is a ".bin" file in the BUILD directory that you can directly flash to the NUCLEO_F429ZI
+
+# BLE_Server_MY_OPT3001
 mbed application for BLE server with STM32F429 and ST BLE shield and TI OPT 3001 light sensor
 
 This application needs to be flashed into a NUCLEO_F429ZI running mbed firmware. It also needs an X-NUCLEO-IDB05A1 BLE shield running v7.2 or later firmware. The latest firmware
