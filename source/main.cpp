@@ -29,6 +29,8 @@ void bleInitComplete(BLE::InitializationCompleteCallbackContext *params)
 {
     BLE &ble   = params->ble;
     ble_error_t error = params->error;
+	
+	const Gap::AdvertisementCallbackParams_t *params_advCallback;
 
 	printf("Inside BLE..starting payload creation..\n");
 	
@@ -53,6 +55,14 @@ void bleInitComplete(BLE::InitializationCompleteCallbackContext *params)
     ble.gap().setAdvertisingInterval(1000); /* 1000ms */
     error = ble.gap().startAdvertising();
 		printf("ble.gap().startAdvertising() => %u\r\n", error);
+	
+	/****************************************
+	
+	TODO : Print the address of the server. The below is partially working.
+	
+	printf("Hello..My addr is: [%02x %02x %02x %02x %02x %02x] \r\n", params_advCallback->peerAddr[5], params_advCallback->peerAddr[4], params_advCallback->peerAddr[3], params_advCallback->peerAddr[2], params_advCallback->peerAddr[1], params_advCallback->peerAddr[0]);
+	****************************************/
+	
 }
 /*
 void periodicCallback(void) {
@@ -100,6 +110,7 @@ void Bluetooth_LE_server(void) {
 	while(1) {
 		ble.processEvents();
 	}
+	//This statement might be un-reachable...??
 	Thread::wait(1000);
 }
 

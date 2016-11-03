@@ -1,0 +1,15 @@
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: .\mbed-os\features\netsocket\nsapi_dns.cpp
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: .\BUILD\NUCLEO_F429ZI\ARM\mbed_config.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: .\mbed-os\features\netsocket\nsapi_dns.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: .\mbed-os\features\netsocket\nsapi_types.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/features/netsocket/NetworkStack.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/features/netsocket/SocketAddress.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/platform/toolchain.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/features/netsocket/NetworkInterface.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/features/netsocket/UDPSocket.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/features/netsocket/Socket.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/rtos/Mutex.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/rtos/rtx/TARGET_CORTEX_M/cmsis_os.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/platform/Callback.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/platform/mbed_assert.h
+.\BUILD\NUCLEO_F429ZI\ARM\mbed-os\features\netsocket\nsapi_dns.o: ./mbed-os/rtos/Semaphore.h

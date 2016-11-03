@@ -1,0 +1,747 @@
+[
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-OPT3001/OPT3001.o", 
+        "size": {
+            ".data": 16, 
+            ".bss": 196, 
+            ".text": 288
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/CAN.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 63
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/FileBase.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 28, 
+            ".text": 290
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/FilePath.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 154
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/I2C.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 28, 
+            ".text": 648
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/InterruptIn.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 596
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/SPI.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 128, 
+            ".text": 1160
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/Ticker.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 162
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/Timeout.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 64
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/drivers/TimerEvent.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 116
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/features/FEATURE_BLE/source/BLE.o", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 484
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/features/FEATURE_BLE/source/BLEInstanceBase.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 18
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/features/FEATURE_BLE/source/GapScanningParams.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 94
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-eth/arch/TARGET_STM/stm32xx_emac.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 12560, 
+            ".text": 24
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/features/FEATURE_LWIP/lwip-interface/lwip-sys/arch/lwip_sys_arch.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 22
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/hal/mbed_gpio.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 280
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/hal/mbed_pinmap_common.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 248
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/hal/mbed_ticker_api.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 242
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/hal/mbed_us_ticker_api.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 0, 
+            ".text": 48
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/mbed_assert.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 84
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/mbed_board.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 328
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/mbed_critical.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 0, 
+            ".text": 304
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/mbed_error.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 18
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/mbed_rtc_time.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 28, 
+            ".text": 48
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/mbed_wait_api_rtos.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 132
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/platform/retarget.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 92, 
+            ".text": 1039
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/Mutex.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 96
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/Semaphore.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 34
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/Thread.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 0, 
+            ".text": 428
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtos_idle.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 0, 
+            ".text": 14
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/HAL_CM.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 274
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/RTX_Conf_CM.o", 
+        "size": {
+            ".data": 48, 
+            ".bss": 8268, 
+            ".text": 476
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7/TOOLCHAIN_ARM/HAL_CM4.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 408
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/TARGET_RTOS_M4_M7/TOOLCHAIN_ARM/SVC_Table.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 4
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_CMSIS.o", 
+        "size": {
+            ".data": 16, 
+            ".bss": 16, 
+            ".text": 1938
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Event.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 84
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_List.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 48, 
+            ".text": 756
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Mailbox.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 508
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_MemBox.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 142
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Mutex.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 352
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_OsEventObserver.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 0, 
+            ".text": 0
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Robin.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 0, 
+            ".text": 96
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Semaphore.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 122
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_System.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 0, 
+            ".text": 302
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Task.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 64, 
+            ".text": 1392
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/rtos/rtx/TARGET_CORTEX_M/rt_Time.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 0, 
+            ".text": 6
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F429ZI/PeripheralPins.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 912
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F429ZI/device/TOOLCHAIN_ARM_STD/startup_stm32f429xx.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 464
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F429ZI/device/TOOLCHAIN_ARM_STD/sys.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 16
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F429ZI/device/cmsis_nvic.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 52
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F429ZI/device/hal_tick.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 60, 
+            ".text": 296
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_NUCLEO_F429ZI/device/system_stm32f4xx.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 0, 
+            ".text": 496
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/can_api.o", 
+        "size": {
+            ".data": 12, 
+            ".bss": 64, 
+            ".text": 328
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 0, 
+            ".text": 80
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_cortex.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_dma.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 36
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_eth.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 142
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_gpio.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 604
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_i2c.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2734
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_msp_template.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_rcc.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1608
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_spi.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2454
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_tim.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 312
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/device/stm32f4xx_hal_uart.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 936
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/gpio_api.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 202
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/gpio_irq_api.o", 
+        "size": {
+            ".data": 68, 
+            ".bss": 532, 
+            ".text": 758
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/i2c_api.o", 
+        "size": {
+            ".data": 12, 
+            ".bss": 0, 
+            ".text": 1684
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/mbed_overrides.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 14
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/pinmap.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 812
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/serial_api.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 580, 
+            ".text": 838
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/spi_api.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1454
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/mbed-os/targets/TARGET_STM/TARGET_STM32F4/us_ticker.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 60, 
+            ".text": 144
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/BlueNRGDevice.o", 
+        "size": {
+            ".data": 12, 
+            ".bss": 1752, 
+            ".text": 4864
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/BlueNRGDiscoveredCharacteristic.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 104
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/BlueNRGGap.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2142
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/BlueNRGGattClient.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 0, 
+            ".text": 2518
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/BlueNRGGattServer.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 2974
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/hci/ble_hci.o", 
+        "size": {
+            ".data": 20, 
+            ".bss": 8960, 
+            ".text": 1472
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/hci/controller/bluenrg_gap_aci.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 532
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/hci/controller/bluenrg_gatt_aci.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1300
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/hci/controller/bluenrg_hal_aci.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 276
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/hci/controller/bluenrg_l2cap_aci.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 110
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/hci/controller/bluenrg_utils.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 80
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/utils/ble_gp_timer.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 40
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/utils/ble_list.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 76
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/bluenrg-hci/utils/ble_osal.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 8
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/platform/ble_clock.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 12
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/platform/btle.o", 
+        "size": {
+            ".data": 16, 
+            ".bss": 32, 
+            ".text": 1716
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/platform/stm32_bluenrg_ble.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 178
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/shields/TARGET_ST_BLUENRG/source/utils/ble_utils.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 180
+        }
+    }, 
+    {
+        "module": "C:/Ashok/My_OPT3001/BLE_Server/BLE_Server_MY_OPT3001/BUILD/NUCLEO_F429ZI/ARM/source/main.o", 
+        "size": {
+            ".data": 8, 
+            ".bss": 116, 
+            ".text": 1836
+        }
+    }, 
+    {
+        "module": "Misc", 
+        "size": {
+            ".data": 103, 
+            ".bss": 430, 
+            ".text": 28332
+        }
+    }, 
+    {
+        "summary": {
+            "total_flash": 81005, 
+            "static_ram": 34525, 
+            "stack": 0, 
+            "heap": 0, 
+            "total_ram": 34525
+        }
+    }
+]
