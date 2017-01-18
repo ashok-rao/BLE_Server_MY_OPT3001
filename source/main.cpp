@@ -5,20 +5,20 @@
 #include "ble\BLE.h"
 #include "ble\Gap.h"
 
-#define SERVICE_UUID					0xA000
-#define CHARACTERISTIC_UUID		0xA001
+#define SERVICE_UUID			<Service_UUID here>//0xA000
+#define CHARACTERISTIC_UUID		<Characteristic UUID here>//0xA001
 
 //BLE ble;
 BLE &ble = BLE::Instance();
 DigitalOut led1(LED1);
 DigitalOut led2(LED2);
 
-const static char DEVICE_NAME[] = "OPT3001";
+const static char DEVICE_NAME[] = "Your device name here"//"OPT3001";
 const static uint16_t uuid16_list[] = {SERVICE_UUID};
 float lux_data = 0.0;
 
-ReadOnlyGattCharacteristic<float> SensorReading(CHARACTERISTIC_UUID, &lux_data, GattCharacteristic::BLE_GATT_CHAR_PROPERTIES_NOTIFY);
-
+//Uncomment the line below to define a characteristic.
+//ReadOnlyGattCharacteristic<float> SensorReading(CHARACTERISTIC_UUID, &lux_data, GattCharacteristic::BLE_GATT_CHAR_PROPERTIES_NOTIFY);
 
 void disconnectionCallback(const Gap::DisconnectionCallbackParams_t *params)
 {
